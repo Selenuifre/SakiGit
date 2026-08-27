@@ -2,6 +2,28 @@
 
 An AI-powered Git GUI client that provides a visual interface for daily Git operations, integrates large language models, and supports intelligent features such as auto-generating commit messages and smart code review, thereby lowering the barrier to version control and improving development efficiency.
 
+
+## Pre-built Package (Windows)
+
+If you prefer not to build from source, you can download a ready-to-run packaged version for Windows.
+
+### 📦 Download
+
+- **Windows**: Download [`Windows.zip`](https://github.com/Selenuifre/SakiGit/releases/Windows.zip) (or get it from the [Releases](https://github.com/yourname/SakiGit/releases) page)
+
+### 🚀 Quick Start
+
+1. Extract the downloaded `Windows.zip` to any directory (we recommend using a path without spaces or Chinese characters).
+2. Navigate into the extracted folder and double-click `SakiGit.exe` to launch the application.
+
+> ✅ **Note**: The package already includes all required Qt dynamic libraries (`.dll`) and plugins – no separate Qt installation is needed.
+
+---
+
+## Build from Source
+
+If you want to compile the project yourself or run it on other platforms, follow the steps below.
+
 ## Requirements
 
 Before you begin, ensure your development environment meets the following requirements:

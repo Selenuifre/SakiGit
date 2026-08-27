@@ -9,7 +9,8 @@ If you prefer not to build from source, you can download a ready-to-run packaged
 
 ### 📦 Download
 
-- **Windows**: Download [`Windows.zip`](https://github.com/Selenuifre/SakiGit/tree/main/releases)
+- **Windows**: Download [`Windows.zip`](https://github.com/Selenuifre/SakiGit/releases/download/v1.0/Windows.zip)(or get it from the [Releases](https://github.com/Selenuifre/SakiGit/releases/tag/v1.0) page)
+
 ### 🚀 Quick Start
 
 1. Extract the downloaded `Windows.zip` to any directory (we recommend using a path without spaces or Chinese characters).

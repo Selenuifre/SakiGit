@@ -1,0 +1,28 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/themes/light">
+        <file alias="style.qss">themes/light/style.qss</file>
+    </qresource>
+    <qresource prefix="/themes/dark">
+        <file alias="style.qss">themes/dark/style.qss</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="action_open.svg">icons/action_open.svg</file>
+        <file alias="action_clone.svg">icons/action_clone.svg</file>
+        <file alias="action_refresh.svg">icons/action_refresh.svg</file>
+        <file alias="action_fetch.svg">icons/action_fetch.svg</file>
+        <file alias="action_pull.svg">icons/action_pull.svg</file>
+        <file alias="action_push.svg">icons/action_push.svg</file>
+        <file alias="action_preferences.svg">icons/action_preferences.svg</file>
+        <file alias="action_login.svg">icons/action_login.svg</file>
+        <file alias="action_stage_all.svg">icons/action_stage_all.svg</file>
+        <file alias="action_unstage_all.svg">icons/action_unstage_all.svg</file>
+        <file alias="action_commit.svg">icons/action_commit.svg</file>
+        <file alias="tab_changes.svg">icons/tab_changes.svg</file>
+        <file alias="tab_history.svg">icons/tab_history.svg</file>
+        <file alias="tab_stashes.svg">icons/tab_stashes.svg</file>
+        <file alias="tab_conflicts.svg">icons/tab_conflicts.svg</file>
+        <file alias="tab_pr.svg">icons/tab_pr.svg</file>
+        <file alias="tab_settings.svg">icons/tab_settings.svg</file>
+    </qresource>
+</RCC>
